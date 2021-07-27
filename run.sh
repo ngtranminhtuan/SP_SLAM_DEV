@@ -1,0 +1,1 @@
+./Examples/Monocular/mono_kitti Vocabulary/superpoint_voc.yml Examples/Monocular/KITTI04-12.yaml ~/Downloads/Dataset/data_odometry_gray/dataset/sequences/09

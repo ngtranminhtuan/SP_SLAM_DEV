@@ -1,0 +1,1 @@
+./Examples/Stereo/stereo_kitti Vocabulary/superpoint_voc.yml Examples/Stereo/KITTI04-12.yaml ~/Downloads/Dataset/data_odometry_gray/dataset/sequences/09
